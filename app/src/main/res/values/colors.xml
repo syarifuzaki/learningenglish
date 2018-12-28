@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#52D017</color>
+    <color name="colorPrimary2">#E70005</color>
+    <color name="colorPrimaryDark">#8f0203</color>
+    <color name="colorAccent">#FFB200</color>
+
+    <color name="btnSelect">#604a16</color>
+
+    <color name="textGrey">#636363</color>
+    <color name="bgGrey">#E3E3E3</color>
+    <color name="btnBrown">#6B6B6B</color>
+    <color name="blue">#3700D1</color>
+    <color name="red">#C50000</color>
+</resources>
